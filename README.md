@@ -1,1 +1,1 @@
-# Pandas-Funtions-EDA
+# Pandas Funtions (EDA)
